@@ -12,18 +12,18 @@ This is a simple To-Do application built using ReactJS and Redux. It allows user
 
 1. **Clone Repository**: 
 
-###`git clone https://github.com/anikaet7/Todo-app.git`
+### `git clone https://github.com/anikaet7/Todo-app.git`
 
 
 2. **Navigate to Project Directory**
 
 3. **Install Dependencies**: 
-   ###`npm install`
+   ### `npm install`
 
 ## Running the Application
 
 **To run the application locally**:
-###`npm start`
+### `npm start`
 
 This will start the development server and open the application in your default web browser. If it doesn't open automatically, you can access the application by navigating to [http://localhost:3000](http://localhost:3000) in your browser.
 
