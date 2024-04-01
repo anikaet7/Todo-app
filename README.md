@@ -10,15 +10,13 @@ This is a simple To-Do application built using ReactJS and Redux. It allows user
 
 #### Installation
 
-1. **Clone Repository**: 
-
-### `git clone https://github.com/anikaet7/Todo-app.git`
-
+1. **Clone Repository**:
+## `git clone https://github.com/anikaet7/Todo-app.git`
 
 2. **Navigate to Project Directory**
 
 3. **Install Dependencies**: 
-   ### `npm install`
+### `npm install`
 
 ## Running the Application
 
