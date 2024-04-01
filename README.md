@@ -11,7 +11,7 @@ This is a simple To-Do application built using ReactJS and Redux. It allows user
 #### Installation
 
 1. **Clone Repository**:
-## `git clone https://github.com/anikaet7/Todo-app.git`
+ `git clone https://github.com/anikaet7/Todo-app.git`
 
 2. **Navigate to Project Directory**
 
