@@ -1,26 +1,29 @@
-# To-Do Application
+### To-Do Application
 
 This is a simple To-Do application built using ReactJS and Redux. It allows users to add, view, and delete tasks.
 
-## Setup Instructions
+### Setup Instructions
 
-### Prerequisites
+#### Prerequisites
 
 - Node.js and npm (Node Package Manager) installed on your machine. You can download and install Node.js from [here](https://nodejs.org/).
 
-### Installation
+#### Installation
 
 1. **Clone Repository**: 
+
 git clone https://github.com/anikaet7/Todo-app.git
 
 
-2. **Navigate to Project Directory**: 
-npm install
+2. **Navigate to Project Directory**:
+  cd todo-application
 
+3. **Install Dependencies**: 
+   npm install
 
 ## Running the Application
 
-To run the application locally:
+**To run the application locally**:
 npm start
 
 This will start the development server and open the application in your default web browser. If it doesn't open automatically, you can access the application by navigating to [http://localhost:3000](http://localhost:3000) in your browser.
