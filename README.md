@@ -34,4 +34,4 @@ This will start the development server and open the application in your default 
 ## Deployment
 
 To deploy the application for production:
-npm run build
+`npm run build`
